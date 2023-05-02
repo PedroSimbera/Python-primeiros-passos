@@ -1,3 +1,3 @@
-#Primeiros passos em **Python**
+# Primeiros passos em **Python**
 
 ### *Baseado na pós graduação em **Data Science***
